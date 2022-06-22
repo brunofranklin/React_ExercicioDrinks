@@ -1,0 +1,24 @@
+.App {
+  text-align: center
+}
+
+.modo_preparo-div{
+  min-width: 1000px;
+  max-width: 1000px;
+  display: inline-block;
+  text-align: left;
+}
+
+button{
+  height: 60px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  border-radius: 25px;
+}
+
+button:hover{
+ background-color: rgb(205, 237, 237);
+ border-radius: 26px;
+}
+
+
